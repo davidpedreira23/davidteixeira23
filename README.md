@@ -1,4 +1,4 @@
-# Olá, eu sou o David Teixeira! 👋
+# Olá, eu sou o David Pedreira! 👋
 
 -----
 
