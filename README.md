@@ -24,7 +24,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 ### 📂 Projetos em Destaque
 
 ### 📊 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpedreira23&layout=compact&theme=dark&hide_border=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=davidpedreira23&layout=compact&theme=dark&hide_border=true
 ### 📫 Como me encontrar
 
 Se quiser conversar sobre tecnologia, tirar dúvidas ou acompanhar meus projetos, sinta-se à vontade para entrar em contato:
