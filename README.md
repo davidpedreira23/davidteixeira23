@@ -1,10 +1,7 @@
 <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/david_pedreira.gif" width="450">
 
-<div align="center">
 
-<img src="assets/cropped3.gif" width="900" height="300">
 
-# Olá, eu sou o David Teixeira! 👋
 
 ![Visitantes](https://github.com/davidpedreira23/davidteixeira23/blob/main/david_pedreira(5).gif)
 
