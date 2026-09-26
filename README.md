@@ -24,17 +24,7 @@ My goal is that one day my code will help the world, and that I will evolve as a
 ### 📂 Projetos em Destaque
 
 ### 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidteixeira23&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidteixeira23&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="165"/>
-</div>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidteixeira23&theme=radical&hide_border=true" alt="Streak de contribuições" height="165"/>
-</div>
-
----
+<img width="495" src="https://raw.githubusercontent.com/Renato1909/Renato1909/main/profile/languages.svg" alt="Linguagens por repositório de Renato — detalhado" />
 
 ### 📫 Como me encontrar
 
