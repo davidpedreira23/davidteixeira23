@@ -24,8 +24,21 @@ My goal is that one day my code will help the world, and that I will evolve as a
 ### 📂 Projetos em Destaque
 
 ### 📊 Estatísticas do GitHub
-<img width="495" src="https://raw.githubusercontent.com/Renato1909/Renato1909/main/profile/languages.svg" alt="Linguagens por repositório de Renato — detalhado" />
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidpedreira23&theme=github_dark" alt="Resumo das estatísticas do GitHub de David" />
+</div>
 
+<div align="center">
+  <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpedreira23&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas por David" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=davidpedreira23&locale=pt_BR&hide_border=true&background=0D1117&ring=E1B447&fire=E1B447&currStreakLabel=E1B447&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições de David no GitHub" />
+</div>
+
+<div align="center">
+  <img width="96%" src="https://ghchart.rshah.org/E1B447/davidpedreira23" alt="Gráfico de contribuições de David no GitHub" />
+</div>
 ### 📫 Como me encontrar
 
 Se quiser conversar sobre tecnologia, tirar dúvidas ou acompanhar meus projetos, sinta-se à vontade para entrar em contato:
