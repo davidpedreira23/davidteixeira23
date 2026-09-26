@@ -1,4 +1,3 @@
-
 ![Visitantes](https://github.com/davidpedreira23/davidteixeira23/blob/main/david_pedreira(8).gif)
 
 </div>
