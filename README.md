@@ -7,7 +7,6 @@
 ### 🚀 About Me
 
 My goal is that one day my code will help the world, and that I will evolve as a person.
-* 🎯 Meu objetivo é evoluir como desenvolvedor e transformar código em soluções úteis para o mundo real.
 
 ---
 
