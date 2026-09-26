@@ -6,10 +6,7 @@
 
 ### 🚀 Sobre Mim
 
-Estudante do 2º ano de Desenvolvimento de Sistemas (DS) na ETEC da Zona Leste, apaixonado por tecnologia e resolução de problemas através do código.
-
-Tenho experiência com **Java**, e também atuo com **PHP** e **MySQL**. Gosto tanto de criar sistemas robustos (Desktop/Web) quanto de explorar automação e eletrônica com Arduino — sempre buscando unir teoria e prática em projetos reais.
-
+My goal is that one day my code will help the world, and that I will evolve as a person.
 * 🎯 Meu objetivo é evoluir como desenvolvedor e transformar código em soluções úteis para o mundo real.
 
 ---
